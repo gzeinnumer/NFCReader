@@ -185,6 +185,8 @@ You can change mesage of the `Dialog Tagging`.
 # Version
 - **1.0.0**
   - First Release
+- **2.0.0**
+  - Support SDK 16
 
 ---
 # Contribution
